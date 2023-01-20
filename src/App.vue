@@ -2,6 +2,7 @@
   <main>
     <header>
       <!-- <img src="https://pinia.vuejs.org/logo.svg" alt="pinia logo"> -->
+      <!-- <img src="./assets/logo.svg" alt="vue-logo"> -->
       <img src="./assets/pinia-logo.svg" alt="pinia-logo">
       <h1>Pinia Tasks</h1>
     </header>
